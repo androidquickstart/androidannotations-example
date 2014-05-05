@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">A_A</string>
+    <string name="helloWorld">Hello world!</string>
+    <string name="menuSettings">Settings</string>
+</resources>
